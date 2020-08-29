@@ -6,7 +6,7 @@
 }
 .body{
     background-color: #99F493;
-    background-image: url(/img/art-ods7.png);
+    background-image: url(../img/art-ods7.png);
     background-size: cover;
     height: 970px;
     display: flex;
